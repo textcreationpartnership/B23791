@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay concerning nutrition in animals proving it analogical to that of plants, and discovering the like structure and use of the organs to be alike in both, with many observations towards the practise of physick : together by Philip Guide ...</title>
+            <author>Guide, Philippe, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23791</idno>
+            <idno type="STC">Wing G2183</idno>
+            <idno type="EEBO-CITATION">12601131</idno>
+            <idno type="OCLC">ocm 12601131</idno>
+            <idno type="VID">199245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 318:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay concerning nutrition in animals proving it analogical to that of plants, and discovering the like structure and use of the organs to be alike in both, with many observations towards the practise of physick : together by Philip Guide ...</title>
+                  <author>Guide, Philippe, d. 1718.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by H. Rhodes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mainly a discourse on the nature of the soul.</note>
+                  <note>Number one of a projected series; apparently no more published.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Philosophy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199245:1" rendition="simple:additions"/>
+            <p>Numb. 1.</p>
+            <p>AN ESSAY Concerning NUTRITION IN ANIMALS.</p>
+            <p>Proving it Analogical to that of PLANTS.</p>
+            <p>And Diſcovering the like Structure and Uſe of the Organs to be alike in both.</p>
+            <p>With many OBSERVATIONS to<g ref="char:EOLhyphen"/>wards the Practiſe of Phyſick.</p>
+            <p>Together with A Short DISCOURSE upon the Nature of the Soul in Plants, Animals, and Man.</p>
+            <p>Offered to Philoſophers and Phyſicians, in Order t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clear Difficulties, in the OEconomy of Animal Bo<g ref="char:EOLhyphen"/>dies, and Applications of Remedies.</p>
+            <p>By <hi>PHILIP GUIDE,</hi> M. D. <hi>&amp; Col.</hi> M. L. L.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, and are to be Sold by <hi>H. Rhodes,</hi> at the <hi>Star,</hi> the Corner of <hi>Bride-Lane,</hi> in <hi>Fleet Street,</hi> 1699.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:199245:2"/>
+            <pb facs="tcp:199245:2"/>
+            <head>THE PREFACE.</head>
+            <p>WE Live in an Age, hap<g ref="char:EOLhyphen"/>py for the Freedom that Men uſe upon Philoſophical Matter; Truth only is pretended to by every Party, no Mens Authority is valued at all: Truth is the beſt Maſter without Diſpute, but not an eaſie one to be met with; in the mean time, it deſerves well enough our Application: To this intent, being buſie to look into the Principle, which Philoſophers and Phyſicians propoſe, to be in uſe in the Practice of Phy<g ref="char:EOLhyphen"/>ſick, I have been unſatisfied, and many times aſhamed, to ſee ſo great and frequent Con<g ref="char:EOLhyphen"/>tradictions
+<pb facs="tcp:199245:3"/>among us. I did what I could all along, to re<g ref="char:EOLhyphen"/>concile Opinions.</p>
+            <p>The beſt way, methinks, to pretend to it, is to pitch upon Matter of Fact, and to advance gradually, from one Truth to another. In this Method the Structure of a Plant, being Examined by O<g ref="char:EOLhyphen"/>cular Inſpections, compared with the Structure of our own Body, and their Parity and Diſparity obſerved, might give the ſureſt Grounds to<g ref="char:EOLhyphen"/>wards truly knowing, and readily Curing Diſtempers.</p>
+            <p>I am, like other Phyſicians, in the Opinion, That Final Cauſes muſt be of ſome Con<g ref="char:EOLhyphen"/>ſideration; and, by the leave of the Modern Philoſophers, I will ſay, That Phyſicians,
+<pb facs="tcp:199245:3"/>which ſpend the beſt part of their Lives in Inquiry, about the Structure of Man's Body, are the beſt Judges in this Matter: Such Knowledge brings Man to their duty, to be grateful to God, and to Worſhip Him; and this <hi>
+                  <g ref="char:V">Ʋ</g>ſus Partium</hi> is moſt neceſſary to Men which intend to dive in<g ref="char:EOLhyphen"/>to the moſt difficult Caſes, and Variety of Diſeaſes.</p>
+            <p>The uſe of the Arteries hath hitherto been thought to carry Food and Nouriſhment to the whole, which in theſe Trea<g ref="char:EOLhyphen"/>tiſes, I make bold to reject as erroneous: We intend to ſay ſomething about the Digeſti<g ref="char:EOLhyphen"/>ons in the Stomach, after the manner of a Machine, called Digeſter, the Ways of Secreti<g ref="char:EOLhyphen"/>on, the Falſhood of many Phyſi<g ref="char:EOLhyphen"/>cian's
+<pb facs="tcp:199245:4"/>Hypotheſis, the danger to Practiſe Phyſick keeping cloſe to their direction; ſome good, and great many more bad Ef<g ref="char:EOLhyphen"/>fects, of the pretended Uni<g ref="char:EOLhyphen"/>verſal Medicine.</p>
+            <p>I will enquire into the Na<g ref="char:EOLhyphen"/>ture of Fevers, and ſhew, that their Riſing is rather from the Error of a Change in the Solid Part of the Machine, than from the Alteration of the Blood, or other Juices. I proceed to clear, how the Jeſuit's Bark does the work, in the Cure of <hi>Agues,</hi> upon the propoſed Notion: Theſe, and other Diſcoveries of the like Nature, will, I hope, be Uſeful to promote, both the Theoretical, and Practical part of Phyſick.</p>
+            <trailer>I intend to Continue this Diſcourſe, as my Time will permit.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199245:4"/>
+            <head>AN ESSAY Concerning Nutrition <hi>in</hi> ANIMALS.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>What may be the Mechaniſm in the Begin<g ref="char:EOLhyphen"/>ning, and in the Progreſs of a Lively and quick Nature, common both to Plants and to Animals; the Parity of their Organi<g ref="char:EOLhyphen"/>cal Particles, towards the Diſcharge of ſome Functions.</hi>
+               </head>
+               <p>WE commonly diſtinguiſh in Ani<g ref="char:EOLhyphen"/>mals different Things: Firſt, They are of a lively and a quick Nature; they are both Nouriſhed, Growing, and able to produce Seeds, and thoſe things they have in common
+<pb n="2" facs="tcp:199245:5"/>with Plants: The Principle, or the Power to perform the ſaid Actions, is call'd a Faculty.</p>
+               <p>In an Animal, beſides theſe three Facul<g ref="char:EOLhyphen"/>ties, we have a local Motion and Senſation, which ſuppoſe, ſome other kind of Facul<g ref="char:EOLhyphen"/>ty or Power: Furthermore, to have a De<g ref="char:EOLhyphen"/>liberation, and a Will to act, according to ſome Rules and Laws of Juſtice and Equi<g ref="char:EOLhyphen"/>ty, ſettled for our own Safety, and for the Safety of others; it is a thing common nei<g ref="char:EOLhyphen"/>ther to Plant, nor Animal, but it belongs to Man alone.</p>
+               <p>No doubt, theſe aforeſaid Faculties de<g ref="char:EOLhyphen"/>pend upon a certain Figure, certain Order, and certain Poſition of their Particles, which joined together with a Liquid, compoſe a ſingle Body, very fit for ſome intended Action, by the Inventer of it; and this is called a Mechaniſm, and Men are a kind of Machine at this rate.</p>
+               <p>According to this Notion, the Body of a Man, which is uſed to perform ſome of theſe Actions, common to Plants, and to the generality of Animals, hath probably ſome Organical Particles, and bigger Parts, very like the Particles and Part of theſe ſaid Creatures.</p>
+               <pb n="3" facs="tcp:199245:5"/>
+               <p> From the Likeneſs of them: If there is any, without any danger of Prevention, we may judge they are intended towards the Performance of a likelihood of Action: To go another way, and to determine at random, about the peculiar uſe of a great many Kinds of different Parts and Particles, joined together promiſcuouſly; but inten<g ref="char:EOLhyphen"/>ded, in the mean time, for different occa<g ref="char:EOLhyphen"/>ſions; to pronounce, I ſay, of their pecu<g ref="char:EOLhyphen"/>liar Uſe, without a good Preſident; gives occaſion to Confuſion, Prejudice, and Miſ<g ref="char:EOLhyphen"/>take; and one may attribute unto one part, an Office which belongs to another: The beſt way therefore to avoid any Error in this point, is, when we have a Mind to know, which of the Particles in an Ani<g ref="char:EOLhyphen"/>mal, are the true Organ intended, for the Faculty of Nurture, of Growing, of Pro<g ref="char:EOLhyphen"/>ducing Seed.</p>
+               <p>For fear of Miſtake, let us lay aſide the more Compounded Mechanical Body at preſent: And Conſider, Firſt, the Struc<g ref="char:EOLhyphen"/>ture of a Plant, which is a more Simple Mechanical Body; a very good Preſident in the Caſe.</p>
+               <p>There we are certain to find no Part nor Particle ſubſervient to the Faculty of Local Motion, or of Senſation; and conſequently,
+<pb n="4" facs="tcp:199245:6"/>no fear of a Miſtake; and having had a view of their Shape, Figure, Order, Po<g ref="char:EOLhyphen"/>ſition, Junction, together with their Juices, which things are ſufficient enough, (as Ex<g ref="char:EOLhyphen"/>perience ſhews) to the performance of all the Actions of a Plant: As long as we ſhall find ſuch like Organical Particles, and Jui<g ref="char:EOLhyphen"/>ces, in an Animal, I think there is no Rea<g ref="char:EOLhyphen"/>ſon to attribute their lively and quick Acti<g ref="char:EOLhyphen"/>on to any other, whatſoever kind of Par<g ref="char:EOLhyphen"/>ticles, Parts, or ſort of Juice and Liquid, but rather ſtick to theſe, which having been ſufficient in Plants, to the ſame Action, may be able to perform the ſame in an Animal.</p>
+               <p>We have to ſay beſide; to do otherwiſe, and to conſult at firſt the more Compoun<g ref="char:EOLhyphen"/>ded Body, may bring us into a Miſtake, to attribute to one part, an Office which belongeth to another; this we may eaſily prove by a Tryal of it in <hi>Anatomy.</hi>
+               </p>
+               <p>There every one looking <hi>in Globo,</hi> into the Compoſition of Man's Body, thinks ſure he does know enough of it's true Orga<g ref="char:EOLhyphen"/>nical Parts intended to ſerve to the Wel<g ref="char:EOLhyphen"/>fare of its lively and quick Actions; be<g ref="char:EOLhyphen"/>cauſe he himſelf has ſeen an indefinite num<g ref="char:EOLhyphen"/>ber of Veſſels, called Arteries, which hav<g ref="char:EOLhyphen"/>ing received into their own Cavity a full quantity of Juice, from the Food out of
+<pb n="5" facs="tcp:199245:6"/>the Stomach, through Lacteal Veins, Thorachick Lacteal Veins, ſeems to be of no other uſe, than to carry what they have receiv'd, towards the ſmalleſt and moſt remoteſt Particles of our Body, to fur<g ref="char:EOLhyphen"/>niſh them Nurture with it; but it may prove the thing to be otherwiſe.</p>
+               <p>The firſt Conjecture I had about it, was in the Year 1684. and I gave then to the Pub<g ref="char:EOLhyphen"/>lick, in a French Letter, directed to the moſt ingenious Squire <hi>Boyle,</hi> Printed in <hi>London,</hi> this Notion of mine there in <hi>P.</hi> 36. <hi>viz.</hi> I ſay there that the Chyle was immedi<g ref="char:EOLhyphen"/>ately carried into Womens Breaſt to produce Milk, without need to go into the Heart, and into the Arteries firſt, and that after the like manner, this ſame Chyle may be diſtributed into every one Particle of our Body to furniſh them Nurture.</p>
+               <p>Now what I called then Chyle, I do re<g ref="char:EOLhyphen"/>duce it ſince to a Juice of no Colour, where<g ref="char:EOLhyphen"/>as the Chyle is whitiſh; and this Juice of no Colour, is the Original of all the Li<g ref="char:EOLhyphen"/>quid of our Body; of which we have more to ſay hereafter. In this ſaid Letter, Direc<g ref="char:EOLhyphen"/>ted to the ſaid Squire <hi>Robert Boyle,</hi> I did uſe ſome Arguments to prove, That Blood was not the Fountain, from whence
+<pb n="6" facs="tcp:199245:7"/>the Particles of our Body received their Nurture and their Growth: To theſe Ar<g ref="char:EOLhyphen"/>guments I have yet ſeen no Anſwer.</p>
+               <p>If the Arguments are good, to prove what I did intend, Blood being excluded ac<g ref="char:EOLhyphen"/>cordingly from the Office of Nurture, the Arteries, at the ſame time, muſt by all means, fall ſhort of their ſuppoſed Func<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> To carry Blood every where, up<g ref="char:EOLhyphen"/>on an Account of a Liquid, intended to be a Matter, deſighed for the Nurture of every Particle of our Body.</p>
+               <p>This ſeems to me the more probable, be<g ref="char:EOLhyphen"/>cauſe Plants which have the Benefit of Nurture, have none of their Organical Particles, after the Likeneſs of an Artery, or a Vein. Moreover, in Man's Body, a great many Parts want theſe Veſſels, and conſequently do not uſe them, to receive Nurture through their Cavity.</p>
+               <p>Now it remains that we enquire, which way then the Parts and Particles of our Body may receive their Food, when the Arteries are excluded: This Query does totally de<g ref="char:EOLhyphen"/>pend upon the Knowledge, one may Bor<g ref="char:EOLhyphen"/>row from the Structure of Plants, and from the way of Diſtribution of their Nouriſhing Juice, all over their Body.</p>
+               <p>Towards this Structure we do receive,
+<pb n="7" facs="tcp:199245:7"/>for granted, what we had out of thoſe Books Publiſhed a great many Years ago, by the Ingenious <hi>Malpegius,</hi> Dr. <hi>Grew,</hi> and the Abbot <hi>Marriot,</hi> three Eminent Men; who diligently applyed themſelves to look in<g ref="char:EOLhyphen"/>to Plants with a Magnifying Glaſs, and do agree together, That they have ſeen no<g ref="char:EOLhyphen"/>thing elſe, in the Texture of Plants, but ſome Pores, ſome Fibres, ſome little Fiſtu<g ref="char:EOLhyphen"/>la's, ſome little Bladders, ſome ſhort and ſcanty Holes, like Store Houſes, without any Artery, or any Vein.</p>
+               <p>Upon Examination of a great many Parts of Man's Body, as Bones, Griſtles, Teeth, Nails, we find them to have ſome Orga<g ref="char:EOLhyphen"/>nical Particle, like Plants, but nothing of Artery, or Vein.</p>
+               <p>The Structure then of Bones, of Griſtles, of Teeth, of Nails, being very like the Structure of a Plant, and both having alike, their Nurture, their Growth, without any Artery, we may conclude the ſaid Pores, Fibres, <hi>&amp;c.</hi> to be, alone, the true Organi<g ref="char:EOLhyphen"/>cal Particles of both theſe Mechanical Bo<g ref="char:EOLhyphen"/>dies, and conſequently Arteries are to be excuſed of this Function.</p>
+               <p>To come to the way of Diſtribution of the Nouriſhing Juice, it muſt be all alike in both of them: No doubt, Nouriſhing
+<pb n="8" facs="tcp:199245:8"/>Juice may get into the hardeſt piece of Wood, into the Texture of a Rocky Bone, Tooth, <hi>&amp;c.</hi> and this muſt be a way ſome<g ref="char:EOLhyphen"/>thing like Filtration; and if it is plain, as it is, that theſe hard Bodies receive their Food by ſuch ways, from Pore to Pore, from Fibre to Fibre, <hi>&amp;c.</hi> Why ſhould we not think that it is a way common to a ſoft part of Fleſh, as well as to an hard Bone, or to a piece of Wood?</p>
+               <p>It ſeems to be ſo much the rather, becauſe the Rarity of the Texture of a ſoft part lies more open to the admiſſion of any Liquid; if then we do not ſee any Contradiction to it, it will be unreaſonable to ſuppoſe, that our Wiſe Maker would have multi<g ref="char:EOLhyphen"/>plied a Being, without Neceſſity. The little Organical Particles, as we have ſaid, are alone ſufficient enough for the Work in a Plant, and in a great many parts of our Body, without the help of any Artery: And it would be againſt this ſaid Rule of Wiſdom, to join an Artery to other Organs, without any Neceſſity; and when the thing may be done as well without it.</p>
+               <p>Finally, we do not pretend, for all this, that the Arteries ſhould not have ſome In<g ref="char:EOLhyphen"/>fluence into the Functions of Nurture, and others: It may be like the Sun's promoting
+<pb n="9" facs="tcp:199245:8"/>theſe Actions in raiſing up the Juice out of the Earth, and qualifying it, by the Ver<g ref="char:EOLhyphen"/>tue of its Beams; they both open the Paſ<g ref="char:EOLhyphen"/>ſages, and procure a free Courſe to the Liquid, to go every where: Such like Of<g ref="char:EOLhyphen"/>fice we may allow to the Arteries; which is a thing quite different from carry<g ref="char:EOLhyphen"/>ing into its Cavity the Food it ſelf <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be applied for Nurture to every part. And this is that which I oppoſe.</p>
+               <p>We do conclude then, (from the Parity of theſe ſaid Organical Particles, from the likeneſs of the nouriſhing Juice, and from the Parity of the Actions, which we have proved in Plants and Animals, to be totally the ſame kind) that the preſence of ſuch like Cauſes muſt be attended with the ſame Ef<g ref="char:EOLhyphen"/>fect, and that the ſame Effect is to be ſup<g ref="char:EOLhyphen"/>poſed to come from the ſame Cauſe, when ſo many Things, in all Circumſtances, do agree ſo well together.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="10" facs="tcp:199245:9"/>
+               <head>CHAP. II. <hi>What may be the Nature of the Faculty, or Power, which hath the greateſt Share in any Action; and what may be the Na<g ref="char:EOLhyphen"/>ture, of that which is called a Soul in a Plant, in Brutes, and in Mankind.</hi>
+               </head>
+               <p>NO Body knows better, the Darkneſs, the narrow Limits, the Vanity of Learning, than thoſe who did apply themſelves to the attaining of it, and dived into the Myſtery of Nature. Anci<g ref="char:EOLhyphen"/>ent Philoſophers, ſurpriſed to a wonder<g ref="char:EOLhyphen"/>ful Admiration, about the Regular Moti<g ref="char:EOLhyphen"/>on of Heavenly Things, would have them to be Ruled by ſome Intelligent Being; at this Rate, every individual Creature be<g ref="char:EOLhyphen"/>low, having its different Degrees of Per<g ref="char:EOLhyphen"/>fections, ſhould deſerve as well the Patro<g ref="char:EOLhyphen"/>nage, and the Preſence of an Intelligent Being, to aſſiſt at its admirable Actions, as things above ſhould pretend to.</p>
+               <p>No wonder then, if it has been thought on, that ſomething extraordinary, beſides the groſs Parts, and Juices of a Plant, and of an Animal, ſhould work out in them
+<pb n="11" facs="tcp:199245:9"/>theſe Actions of Nurture, Growth, and pro<g ref="char:EOLhyphen"/>ducing Seed, and this hath been called the firſt kind of Soul in Plants; now to an Ani<g ref="char:EOLhyphen"/>mal, which hath over and above a Plant, the Priviledge of Local Motion, and what is called Senſation, muſt be allowed ano<g ref="char:EOLhyphen"/>ther diſtinct Soul, to rule ov'r theſe different Actions; and this will be a ſecond kind of Soul. It is a very hard Matter, to give a juſt de<g ref="char:EOLhyphen"/>finition of theſe pretended Beings, and we think convenient, to inquire, if ſuch like Beings are in Nature, to be diſtinctly per<g ref="char:EOLhyphen"/>ceived from the Organical Particles or Parts, from their Poſition, Order, Figure, Juice, joined together in a Plant, or Animal.</p>
+               <p>To this end, we think fit to Conſult what is neareſt to them, <hi>viz.</hi> ſome more ſimple and leſs Compounded Machine, plainly known to Mankind. No doubt Man may ſay, he knows a Thing, when he is in a Capacity to compoſe it, to ſet it in a way to play the Work, he will have it to play; accord<g ref="char:EOLhyphen"/>ingly, a Watch-maker may be ſaid to have a perfect Knowledge of a Machine we call a Watch, this piece of Workmanſhip hath its Organical Parts, made out of Metals; to bring things nearer related to Plants, and Animals. Let us ſuppoſe a Machine compoſed with the Metallical Particles, and Liquids, to have Share in theſe Actions.</p>
+               <pb n="12" facs="tcp:199245:10"/>
+               <p> An Ingenious Man got the Art to com<g ref="char:EOLhyphen"/>poſe a Bird, which could walk alone, and pick up with its Bill any Seed, Corn, or Gravel, that is uſual to this ſort of Crea<g ref="char:EOLhyphen"/>ture; the Natural and the Artificial both could Pick up Grains, let them go down their Throat, into their Belly; and from thence, let them out, after the manner of Excrements.</p>
+               <p>Such a Piece of Workmanſhip is eaſie to be known from Top to Bottom, and is very much Inferiour to the Mechaniſm of a Plant, or of an Animal; but nevertheleſs, it will look mighty ſtrange and wonder<g ref="char:EOLhyphen"/>ful to an <hi>American,</hi> of no Experience: He would think with himſelf, that ſuch Ma<g ref="char:EOLhyphen"/>chine had in its Bowels ſome kind of Animals, which ſhould Govern its rare Motions. Now, if a poor Mortal hath the Skill to work out ſuch Machines, fit to per<g ref="char:EOLhyphen"/>form theſe ſaid Actions, in which we know of a certainty, that there is no other Pow<g ref="char:EOLhyphen"/>er, Faculty or Soul, but the Management of ſo many pieces joined together, to work out of Neceſſity, ſuch an effect, which we have foreſeen, and do expect to come.</p>
+               <p>What can we ſay, about the Skill of our Great Maſter, the Omnipotent and Wife Maker of this World? Shall we reduce him,
+<pb n="13" facs="tcp:199245:10"/>to the neceſſity of calling in, <hi>viz.</hi> (to work out the Function of any part of a Plant, or Animal;) any further Agent then their firſt Organical Particles, and their Juices, which Things he knew from Eternity, ſufficient to perform the work, as we did obſerve in workmanſhip: Doubtleſs it would be inglorious to his Infinite Wiſ<g ref="char:EOLhyphen"/>dom, to uſe unneceſſary means, to per<g ref="char:EOLhyphen"/>form Actions, which can be done without them.</p>
+               <p>We muſt confeſs a great Diſparity be<g ref="char:EOLhyphen"/>tween the Work of God and Man. Our Mechanical Piece, does borrow a great ma<g ref="char:EOLhyphen"/>ny things from its Prototype of God's Work; and ours is very far diſtant from its Perfections; for God's Work and Machine hath the Faculty to receive into its moſt intimate Parts, a repairing Nouriſhing Juice, and doth change it into its own Subſtance, to build out of it a new Struc<g ref="char:EOLhyphen"/>ture, or at leaſt to enlarge it, in its Dimen<g ref="char:EOLhyphen"/>ſions, which we call Growth; and fur<g ref="char:EOLhyphen"/>ther, to produce out of its own Boſom, Seeds, and young ones of the ſame Na<g ref="char:EOLhyphen"/>ture.</p>
+               <p>This muſt be the Finger of God, and in ſome way a continual work of a Creation above the Strength of Humane Power: Let
+<pb n="14" facs="tcp:199245:11"/>all Mens Workmanſhip then, and Men to<g ref="char:EOLhyphen"/>gether, bow before the Throne of the Al<g ref="char:EOLhyphen"/>mighty, to Worſhip and give him Glory. He is the true Original of all Power and Knowledge, the Light and the Living for ever. In reference to him, Men, and their beſt Works, are but Blind and Dead Idols: Shall we then pretend to go beyond him, to compoſe a Mechanical Body, able to per<g ref="char:EOLhyphen"/>form its Actions, according to the Combi<g ref="char:EOLhyphen"/>nation of its Particles, and other Things, which we have foreſeen, to be ſufficient to do the Work alone, without any other Agent; to pretend to out-do God himſelf in his Work, and to be Wiſer than He, which is the Eternal Wiſdom it ſelf? This would be againſt all Reaſon; for who can deny to allow him the ſame thing with us, who has not only power to make a Machine fit for all the Actions, our Artificial Machine is Capable of, but to raiſe it alſo beſides to theſe Perfections, (above our Artificial, of receiving Nur<g ref="char:EOLhyphen"/>ture, Growth, and producing Seed.)</p>
+               <p>Theſe things being well conſidered, we will lay aſide the thought of a Soul; and as no Body yet hath medled with it in Phy<g ref="char:EOLhyphen"/>ſick, <hi>viz.</hi> to get any Inſtruction from it, to redreſs what is miſſing and out of Order,
+<pb n="15" facs="tcp:199245:11"/>in Animal, we muſt rank the Soul in Plants, and in Animals, amongſt the Imaginary Be<g ref="char:EOLhyphen"/>ings, which are Productions not of Nature, but of Fancy only. It is no matter then, for Phyſicians to be buſie about a thing of no uſe at all; all our Meaſures and Indica<g ref="char:EOLhyphen"/>tions, by which we ſet into their former Order, any of theſe Mechanical Beings, will be in ſuch one of their Organical Particles and Parts, Number, Poſition, Figure, Order, and the true qualification of their Juice, in fine to amend what may be wanting; this I ſay muſt be all the Care of a Phyſician, and the true Bounds of his Knowledge and acting.</p>
+               <p>What we have ſaid againſt this imagi<g ref="char:EOLhyphen"/>nary Being, a Soul in the Mechaniſm of a Plant, and of an Animal in general, muſt not be extended further, then the Bodily Shape of a Man; which to the performance of theſe Actions, of Nuture, Growth, producing Seed, is a ſimple Machine with<g ref="char:EOLhyphen"/>out any Soul, like a Plant, or other A<g ref="char:EOLhyphen"/>nimal; and therefore, after the ſame man<g ref="char:EOLhyphen"/>ner in the Performance of Local Motion and Senſation, he wants, by no means, the help of a Soul.</p>
+               <p>But ſince in Mankind, there are ſome Ex<g ref="char:EOLhyphen"/>traordinary Actions, which are not common to
+<pb n="16" facs="tcp:199245:12"/>other Animals, as an indefinite Knowledge of all ſorts of means, to ſerve his Deſigns, whereas Brutes have their bounds and limits, every one in a ſmall Compaſs: A Notion we have in the heart of Juſtice and Equity, the preciſion of Times, of what is Paſt, or preſent, and what is to Come; the large Inſtru<g ref="char:EOLhyphen"/>ment of Reaſon, to go from Step to Step, till we can diſcover Truth; to know the Cauſes by their Effects, and from the Effects to come back to their Cauſes; to know the Propriety, Relation, and degrees of Parity and Diſparity in the Nature of Numbers and Meaſures; above all, to Confeſs and Worſhip our. Omnipotent Maker, and to be ſenſible together of our own Weakneſs; to be in a Capacity to feel an internal Joy, diſtinct from what is produced in us, by external and Organical Senſations, to think, and to make Reflections with our ſelves.</p>
+               <p>All theſe Perfections, prove another ſort of Power in Man, then what is common to Animals in general, Local Motions and Sen<g ref="char:EOLhyphen"/>ſations; this Power or Faculty we call a Hu<g ref="char:EOLhyphen"/>mane Soul, to diſcourſe about whoſe Nature it is a very hard Task; the moſt Ingenious Philoſophers of Old, have had but very dark Notions about it, they are the moſt part incertain and wavering in their Opinions, a<g ref="char:EOLhyphen"/>bout this Matter; and I think the Attain<g ref="char:EOLhyphen"/>ment of it to be above our Human Reach: To this we have for Witneſs the Incapacity of our Fore-fathers, which aimed at it, and have
+<pb n="17" facs="tcp:199245:12"/>done nothing at all; the Modern Authors of themſelves, have had I think as little Succeſs.</p>
+               <p>In my Opinion the true Cauſe of it is, we would heartily know a thing of our ſelves, which is beyond the bounds of Humane Capa<g ref="char:EOLhyphen"/>city; for the firſt Man himſelf being made by the Power of his Omnipotent Maker; and adorned with the beſt Faculty for Diſcovery, ſuppoſe he ſhould have had a mind to enquire about the proceeding of his Production, a thou<g ref="char:EOLhyphen"/>ſand thoughts might have come into his mind, about different Cauſes he could point at; but they would have been altogether uncertain and wavering Opinions, having nothing of Reality in them; for in matter of Fact unparalel, as this is one, (how and which way the firſt Man was made) ſince he was not in Being, before he was framed, all his Care for a Diſcovery thereof would have been needleſs, the percep<g ref="char:EOLhyphen"/>tion of a thing done, and the way of its doing, before his coming into this World, was a piece of work above his reach, he could not be a competent Judge of it, the only way to make him ſenſible of it, was the way of Narration: Accordingly, it pleaſed the Lord God to teach our firſt Parents, and to reveal to them, what we have out of the Book of <hi>Geneſis,</hi> that God formed Man of the Duſt of the Ground, and breathed into his Noſtrils the Breath of Life, and Man became a Living Soul: This Soul we have above and over what we mention'd be<g ref="char:EOLhyphen"/>fore, <hi>viz.</hi> what Mechaniſm, the Plants and Ani<g ref="char:EOLhyphen"/>mals, have in common with us; this Frame,
+<pb n="18" facs="tcp:199245:13"/>alike theirs, God gave us out of the Duſt, and directed all our Organical Parts and Particles, with their Juices, to his Ends and Intention, without any other Agent diſtinct from them.</p>
+               <p>For beſides the reaſon we have given of Conveniency, which ſhows it would be below the Infinite Wiſdom, to give to his Machine an unneceſſary Soul; in ſhort to determine all the difficulty about it; God has not only revealed to Man his own Production, but gave him an account, how he proceeded in the making of Plants and Animals; there the di<g ref="char:EOLhyphen"/>ſtinction is plain; we have not a word of brea<g ref="char:EOLhyphen"/>thing into their Noſtrils the Breath of Life, a Living Soul; then we conclude well, that they have none, and that for certain we have one, becauſe it pleaſeth God to inform us of it, this Faculty, or Power, hath ſomething in its being totally diſtinct from the Machine; and no wonder if the Ancient Philoſophers have had but a wavering Opinion about it, ſince they went a wrong way, to get a ſolid and real Knowledge of their manner of making; and this being a manner of Fact done, before we had any kind of perception, it is only to be known by way of revelation, which in this preſent cauſe proves to be of an abſolute ne<g ref="char:EOLhyphen"/>ceſſity; upon which only we rely for the exclu<g ref="char:EOLhyphen"/>ſion of any, being called a Soul in Plants and Animals, and for aſſerting a Living Soul in the Breaſt of Man.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
